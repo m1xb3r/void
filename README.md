@@ -1,4 +1,4 @@
-# void
+# Void V1.0
 Void is an Anonymization tool written in python for Debian and Ubuntu.
 
 Instructions
@@ -6,6 +6,8 @@ Instructions
 2) clone the repo on your machine 
 3) be sure to KEEP vendormac.txt in the same dir as the script
 4) RUN AS ROOT
+
+--Have Fun--
 
 FILE INTEGRITY
 1) void.py SHA-256 checksum: 36da482d888d69d3eab72e135593e319b89cdda0649ad2c0163c9bb0180f8bb6
